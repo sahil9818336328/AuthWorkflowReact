@@ -1,2 +1,4 @@
+/api/*  https://auth-workflow.herokuapp.com/api/:splat  200
+
 
 /* /index.html 200
